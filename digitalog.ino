@@ -1,3 +1,5 @@
+// created by Isaac Pierre Racine and Henrik Jonsson 
+// may 2018 - 
 #include <Adafruit_NeoPixel.h>
 #include <SoftwareSerial.h>
 #ifdef __AVR__
